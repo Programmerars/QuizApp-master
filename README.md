@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Quiz App 🧠
+
+A dynamic and responsive Quiz Application built to test your knowledge across various categories. Designed with an interactive UI and real-time scoring system.
+
+## 🚀 Features
+
+- ✅ Multiple choice questions
+- 🧩 Category and difficulty selection (easy, medium, hard)
+- ⏱️ Timer-based questions (optional)
+- 📊 Instant score calculation
+- 📱 Responsive design for mobile and desktop
+- 🔁 Replay/Restart quiz functionality
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS
+- **State Management:** React Hooks or Redux Toolkit *(if used)*
+
+## 📸 Screenshots
+
+> *(Add screenshots or a short GIF demo here)*
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/quiz-app.git
+cd quiz-app
+npm install
+npm start
+>>>>>>> 71b0475b867cf70ce8751ed3d8341c159e3595bd
